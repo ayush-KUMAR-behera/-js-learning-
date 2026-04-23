@@ -1,0 +1,1 @@
+console.log("satguru tere bharose ")
